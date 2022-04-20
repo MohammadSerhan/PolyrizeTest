@@ -153,7 +153,6 @@ def calculate_price(materials : list):
         else:
             total_price = None
             break
-    print(total_price)
     return total_price
 
 def material_price(name):

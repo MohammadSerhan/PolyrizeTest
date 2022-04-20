@@ -1,7 +1,7 @@
 # PolyrizeTest
 
 this is an advanced Webserver built in python. 
-D:\python\PolyrizeTest\screen shots\advanced web server.PNG
+
 ![web server](/screen_shots/advanced_web_server.PNG?raw=true "Advance Web Server")
 
 the server is hosted under: 

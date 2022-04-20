@@ -136,7 +136,6 @@ class requestHandler(BaseHTTPRequestHandler)  :
             if self.path.endswith('/product/remove'):
                 fields = cgi.parse_multipart(self.rfile, pdict)
                 name = fields.get('product')[0]
-                print('Removing ', name)
                 remove_product(name)
 
         self.send_response(301)
