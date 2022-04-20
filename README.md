@@ -2,7 +2,7 @@
 
 this is an advanced Webserver built in python. 
 D:\python\PolyrizeTest\screen shots\advanced web server.PNG
-![web server](/repository/screen_shots\advanced_web_server.PNG?raw=true "Advance Web Server")
+![web server](/screen_shots\advanced_web_server.PNG?raw=true "Advance Web Server")
 
 the server is hosted under: 
 http://localhost:9000/pricing_server
